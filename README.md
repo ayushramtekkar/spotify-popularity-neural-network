@@ -2,7 +2,7 @@
 
 A regression pipeline that predicts a Spotify track's popularity score (0 to 100) from its audio features, genre and explicit flag, framed for a streaming platform's A&R and playlist team that wants to spot promising tracks before stream counts build up.
 
-**[View the full notebook with all outputs](https://GH_USER.github.io/spotify-popularity-neural-network/)**
+**[View the full notebook with all outputs](https://ayushramtekkar.github.io/spotify-popularity-neural-network/)**
 
 ## Approach
 
@@ -30,4 +30,4 @@ Python, pandas, NumPy, scikit-learn, TensorFlow / Keras, Matplotlib
 ## Notes
 
 The dataset is not included in this repo; download it from the Hugging Face link above.
-Completed as an individual project for M507 Methods of Prediction, MSc Data Science, AI and Digital Business, Gisma University of Applied Sciences.
+Completed as part of the MSc Data Science, AI and Digital Business, Gisma University of Applied Sciences.
